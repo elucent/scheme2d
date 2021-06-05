@@ -1,0 +1,17 @@
+        ^ ^
+<define i +>
+        n  
+        c x   increments 'x'
+   
+        x 1
+        v v
+
+         ^
+<display i>
+         n
+         c
+
+         1
+         v
+         
+<newline>

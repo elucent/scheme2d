@@ -1,0 +1,36 @@
+        ^   ^
+<define f   i>
+        a   f 
+        c 
+        t  <= x 0>  if x == 0
+        o
+        r   1       ...then we return 1
+        i       ^
+        a  <* x f>  ...otherwise we recur
+        l   v   a
+                c
+        x       t
+        v       o
+                r
+                i
+                a
+                l
+
+               <- x 1>
+                v
+         ^ 
+<display f>
+         a
+         c
+         t
+         o
+         r
+         i
+         a
+         l
+
+         1
+         0
+         v
+
+<newline>
